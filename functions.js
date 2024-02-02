@@ -7,3 +7,4 @@ function randomValue() {
 }
 
 console.log(randomValue);
+console.log();
